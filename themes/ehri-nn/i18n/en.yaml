@@ -1,0 +1,109 @@
+news:
+  other: News
+
+about:
+  other: About
+
+partners:
+  other: Partners
+
+contact:
+  other: Contact
+
+services:
+  other: Services
+
+partners_funders:
+  other: Partners/Funders
+
+fellowships_training:
+  other: Fellowships & Training
+
+document_blog:
+  other: Document Blog
+
+portal:
+  other: EHRI Portal
+
+digital_tools_guide:
+  other: Digital Tools Guide
+
+podcast:
+  other: Podcast
+
+learn_more:
+  other: Learn More
+
+read_more:
+  other: Read More
+
+latest:
+  other: Latest
+
+ehri_services:
+  other: EHRI Services
+
+below_are_some:
+  other: Below are some of the innovative services created by EHRI for use by all.
+
+more_about_mission:
+  other: More about EHRI's mission and vision
+
+go_to:
+  other: Go to {{ .Name }}
+
+# Contact page
+contact_send_message:
+  other: Send us a message
+
+contact_form_name:
+  other: Name
+
+contact_form_email:
+  other: Email
+
+contact_form_subject:
+  other: Subject
+
+contact_form_message:
+  other: Leave us a message...
+
+contact_form_send:
+  other: Send message
+
+contact_coordinators:
+  other: Coordinators for {{ .Title }}
+
+contact_social:
+  other: "{{ .Title }} on social media"
+
+contact_thanks:
+  other: Thanks for your message
+
+contact_back:
+  other: Go back to the form
+
+# Social media
+social_media:
+  other: Social Media
+
+social_follow_us:
+  other: Follow us on social media
+
+social_facebook:
+  other: Facebook
+
+social_facebook_follow:
+  other: Follow us on Facebook
+
+social_x:
+  other: X (formerly Twitter)
+
+social_x_follow:
+  other: Follow us on X (formerly Twitter)
+
+social_linkedin:
+  other: LinkedIn
+
+social_linkedin_follow:
+  other: Follow us on LinkedIn

@@ -1,0 +1,13 @@
+<div class="latest-card">
+    <header><a href="{{ .url }}">{{ or (T .id) .title }}</a></header>
+    <p>
+        {{ .content | markdownify }}
+
+        <a class="read-more" href="{{ .url }}">
+            &nbsp;
+            &nbsp;
+            {{ i18n "read_more" }}
+            <i class="fa-solid fa-fw fa-chevron-right"></i>
+        </a>
+    </p>
+</div>

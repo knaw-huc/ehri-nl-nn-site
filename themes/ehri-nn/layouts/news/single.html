@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+    {{ partial "breadcrumbs" . }}
+
+    <section class="page-content news">
+        <h1>{{ .Title }}</h1>
+
+        {{ with .Resources.GetMatch .Params.Image }}
+            {{ partial "featured-image.html" . }}
+        {{ end }}
+
+        {{ $dateShort := .PublishDate | time.Format "02/01/2006" }}
+        {{ $dateLong := .PublishDate | time.Format ":date_long" }}
+        <time class="news-date" datetime="{{ $dateShort }}">
+            <a class="permalink" href="{{ .RelPermalink }}">
+                {{ $dateLong }}
+            </a>
+        </time>
+
+        {{ .Content }}
+    </section>
+{{ end }}

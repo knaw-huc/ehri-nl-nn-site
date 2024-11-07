@@ -1,0 +1,41 @@
+<header class="main header">
+    <div class="banner">
+        <div class="logo">
+            <a href="{{ relLangURL "" }}"><img src=" {{ "images/ehri-logo.svg" | relURL }}" alt="EHRI Logo"/></a>
+        </div>
+        <a href="{{ relLangURL "" }}" class="title">{{ .Site.Title }}</a>
+    </div>
+    {{ if (and (.Site.IsMultiLingual) (.Page.IsTranslated)) }}
+        <ul class="language-switcher">
+            {{ $currentLang := .Site.Language.Lang }}
+            {{ range .Page.AllTranslations }}
+                {{ if eq .Lang $currentLang }}
+                    <li><a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">{{ .Lang }}</a></li>
+                {{ else }}
+                    <li class="active"><a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">{{ .Lang }}</a></li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    {{ end }}
+    <nav class="nav main-navbar">
+        <label for="hb-toggle">Show menu</label>
+        <input id="hb-toggle" type="checkbox"/>
+        <span class="hb"></span>
+        <span class="hb"></span>
+        <span class="hb"></span>
+
+        <div class="navbar">
+            <ul class="text-items">
+                {{- $page := . -}}
+                {{- range site.Menus.main -}}
+                    <li {{ if $page.IsMenuCurrent .Menu . }}class="active"{{ end }}>
+                        <a href="{{ .PageRef | relLangURL }}">{{ or (or (T .Identifier) .Name) .Identifier | safeHTML }}</a>
+                    </li>
+                {{- end -}}
+            </ul>
+
+            {{ partial "social.html" }}
+        </div>
+    </nav>
+</header>
+

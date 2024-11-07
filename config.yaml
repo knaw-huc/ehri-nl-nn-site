@@ -1,0 +1,176 @@
+baseURL: 'http://example.org/'
+languageCode: en
+title: Nederland
+theme: ehri-nn
+copyright: '© 2010-{year} EHRI Consortium.'
+defaultContentLanguage: en
+dateFormat: '2 January 2006'
+summaryLength: 40
+params:
+  titleShort: EHRI-NL
+  facebookUrl: 'https://facebook.com/EHRIproject'
+  twitterUrl: 'https://twitter.com/EHRIproject'
+  linkedinUrl: 'https://www.linkedin.com/company/ehri-european-holocaust-research-infrastructure'
+
+  # `contactName` and `contactEmail` are used to populate the contact page.
+  contactName: EHRI NL
+  contactEmail: f.uiterwaal@niod.knaw.nl
+
+  # `contactForm` is a boolean that determines whether the contact form should be shown.
+  contactForm: true
+
+  # `contactFormUrl` is the POST action of the form that will be used to send the contact email.
+  contactFormUrl: dummy
+
+  # `funders` is a list of funding bodies, each with a name, logo and an optional URL.
+  # If the URL is not provided, the logo will not be linked. The logo should be in the
+  # `static/images` folder.
+  funders:
+    - name: EHRI wordt gefinancierd door de Europese Commissie
+      logo: 'eu-logo.svg'
+      url: 'https://ec.europa.eu/info/departments/research-and-innovation_en'
+
+# Configure syntax highlighting for the examples on the `training` page
+markup:
+  highlight:
+    style: xcode
+
+# Configure taxonomy terms
+taxonomies:
+  - name: category
+    weight: 1
+  - name: tag
+    weight: 2
+
+# Menu configuration. Labels are in the i18n folders:
+menu:
+  main:
+    - identifier: about
+      pageRef: about
+      weight: 20
+    - identifier: partners
+      pageRef: partners
+      weight: 30
+    - identifier: fellowships_training
+      pageRef: training
+      weight: 40
+    - identifier: services
+      pageRef: services
+      weight: 50
+    - identifier: contact
+      pageRef: contact
+      weight: 60
+  footer:
+    - identifier: about
+      pageRef: about
+      weight: 20
+    - identifier: partners
+      pageRef: partners
+      weight: 30
+    - identifier: fellowships_training
+      pageRef: training
+      weight: 40
+  services:
+    - identifier: portal
+      pageRef: 'https://portal.ehri-project.eu/'
+      weight: 10
+    - identifier: document_blog
+      pageRef: 'https://blog.ehri-project.eu/'
+      weight: 20
+    - identifier: digital_tools_guide
+      pageRef: 'https://github.com/EHRI/ehri-data-analysis-tools'
+      weight: 30
+    - identifier: podcast
+      pageRef: 'https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead'
+      weight: 40
+
+
+# Language overrides for menu config. TODO: figure out
+# how not to duplicate things in e.g. the services menu
+languages:
+  en:
+    title: Netherlands
+    weight: 2
+    languageName: English
+  cy:
+    title: Deyrnas Unedig
+    weight: 3
+    languageName: Cymraeg
+    menu:
+      main:
+        - identifier: about
+          pageRef: cy/about/
+          weight: 20
+        - identifier: partners
+          pageRef: cy/partners
+          weight: 30
+        - identifier: fellowships_training
+          pageRef: cy/training
+          weight: 40
+        - identifier: services
+          pageRef: cy/services
+          weight: 50
+        - identifier: contact
+          pageRef: cy/contact
+          weight: 60
+      footer:
+        - identifier: about
+          pageRef: cy/about/
+          weight: 20
+        - identifier: partners
+          pageRef: cy/partners
+          weight: 30
+        - identifier: fellowships_training
+          pageRef: cy/training
+          weight: 40
+      services:
+        - identifier: document_blog
+          pageRef: 'https://blog.ehri-project.eu/'
+          weight: 20
+        - identifier: digital_tools_guide
+          pageRef: 'https://github.com/EHRI/ehri-data-analysis-tools'
+          weight: 30
+        - identifier: podcast
+          pageRef: 'https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead'
+          weight: 40
+  nl:
+    title: Nederland
+    weight: 1
+    languageName: Nederlands
+    menu:
+      main:
+        - identifier: about
+          pageRef: nl/about/
+          weight: 20
+        - identifier: partners
+          pageRef: nl/partners
+          weight: 30
+        - identifier: fellowships_training
+          pageRef: nl/training
+          weight: 40
+        - identifier: services
+          pageRef: nl/services
+          weight: 50
+        - identifier: contact
+          pageRef: nl/contact
+          weight: 60
+      footer:
+        - identifier: about
+          pageRef: nl/about/
+          weight: 20
+        - identifier: partners
+          pageRef: nl/partners
+          weight: 30
+        - identifier: fellowships_training
+          pageRef: nl/training
+          weight: 40
+      services:
+        - identifier: document_blog
+          pageRef: 'https://blog.ehri-project.eu/'
+          weight: 20
+        - identifier: digital_tools_guide
+          pageRef: 'https://github.com/EHRI/ehri-data-analysis-tools'
+          weight: 30
+        - identifier: podcast
+          pageRef: 'https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead'
+          weight: 40

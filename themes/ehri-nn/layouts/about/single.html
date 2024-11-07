@@ -1,0 +1,9 @@
+{{ define "main" }}
+    <section class="page-content about">
+
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+    </section>
+
+    {{ partial "people" . }}
+{{ end }}
