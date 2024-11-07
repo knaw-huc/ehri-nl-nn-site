@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Een platform voor Holocaust onderzoek in Nederland on Nederland</title>
+    <link>http://localhost:1313/nl/</link>
+    <description>Recent content in Een platform voor Holocaust onderzoek in Nederland on Nederland</description>
+    <generator>Hugo</generator>
+    <language>nl</language>
+    <copyright>© 2010-{year} EHRI Consortium.</copyright>
+    <atom:link href="http://localhost:1313/nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Over EHRI-NL</title>
+      <link>http://localhost:1313/nl/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/about/</guid>
+      <description>De missie van de European Holocaust Research Infrastructure (EHRI) is ervoor te zorgen dat de Holocaust internationaal onderzocht, herdacht en onderwezen wordt. De grootste uitdaging daarbij is het feit dat de bronnen en expertise versnipperd zijn over talrijke instellingen. EHRI wordt momenteel ondersteund door twee projectconsortia van 25 partners uit Europa, Israël en de Verenigde Staten.</description>
+    </item>
+    <item>
+      <title>Partners</title>
+      <link>http://localhost:1313/nl/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/partners/</guid>
+      <description>27 Organisations in 17 Countries Worldwide Currently, EHRI (EHRI-3 and EHRI-PP combined) has 27 partners, representing archives, libraries, museums and research institutions. The project also relies on a large network of cooperating partners and many other individuals and organisations in the broad fields of Holocaust studies and digital humanities.</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/nl/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/services/</guid>
+      <description> Below are some of the innovative services created by EHRI for use by all: </description>
+    </item>
+    <item>
+      <title>Training &amp; Fellowships</title>
+      <link>http://localhost:1313/nl/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/training/</guid>
+      <description>This is some markdown content with a link.&#xA;here is a list of items Here is a paragraph with some text in it, and a link to the About page.&#xA;Here is a caption for an image With some text below it</description>
+    </item>
+  </channel>
+</rss>

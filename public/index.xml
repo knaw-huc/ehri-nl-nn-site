@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A platform for Holocaust research in the Netherlands on Netherlands</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in A platform for Holocaust research in the Netherlands on Netherlands</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2010-{year} EHRI Consortium.</copyright>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Step 1 Application to Establish EHRI as an ERIC Submitted to the EU</title>
+      <link>http://localhost:1313/news/step-1-ehri-eric-application/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/step-1-ehri-eric-application/</guid>
+      <description>On 13 July 2023, the Dutch Ministry of Education, Culture and Science submitted&#xA;to the European Union the step 1 application for EHRI, the European Holocaust&#xA;Research Infrastructure, to establish itself as an European Research&#xA;Infrastructure Consortium (ERIC).</description>
+    </item>
+    <item>
+      <title>EHRI Launches its Geospatial Repository</title>
+      <link>http://localhost:1313/news/ehri-geospatial-repository/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/ehri-geospatial-repository/</guid>
+      <description>Have you ever needed to build a map of ghettos or camps for your research project? Analyse distances between them or trajectories walked by prisoners? Share your datasets with others in a reusable way?&#xA;The new EHRI Geospatial Repository aims to help researchers with these and similar challenges.</description>
+    </item>
+    <item>
+      <title>About EHRI-NL</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>The mission of the European Holocaust Research Infrastructure (EHRI) is to to ensure that the study, commemoration and education are encouraged at the international level. The biggest challenge is the fact that sources and expertise are fragmented across numerous institutions.</description>
+    </item>
+    <item>
+      <title>Contact EHRI</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Partners</title>
+      <link>http://localhost:1313/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/partners/</guid>
+      <description>27 Organisations in 17 Countries Worldwide Currently, EHRI (EHRI-3 and EHRI-PP combined) has 27 partners, representing archives, libraries, museums and research institutions. The project also relies on a large network of cooperating partners and many other individuals and organisations in the broad fields of Holocaust studies and digital humanities.</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description> Below are some of the innovative services created by EHRI for use by all: </description>
+    </item>
+    <item>
+      <title>Training &amp; Fellowships</title>
+      <link>http://localhost:1313/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/training/</guid>
+      <description>This is some markdown content with a link.&#xA;here is a list of items Here is a paragraph with some text in it, and a link to the About page.&#xA;Here is a caption for an image With some text below it</description>
+    </item>
+  </channel>
+</rss>
