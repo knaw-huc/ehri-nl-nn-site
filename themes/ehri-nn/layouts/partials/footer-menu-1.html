@@ -1,9 +1,0 @@
-<ul class="menu-1">
-    {{ $page := .}}
-    {{- range site.Menus.footer }}
-    <li {{ if $page.IsMenuCurrent .Menu . }}class="active"{{ end }}>
-        <a href="{{ .PageRef | relURL }}">{{ or (T .Identifier) .Name | safeHTML }}</a>
-    </li>
-    {{- end }}
-</ul>
-
