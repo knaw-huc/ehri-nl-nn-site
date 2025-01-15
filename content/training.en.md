@@ -12,12 +12,12 @@ This is some **markdown** content with a [link]().
 Here is a paragraph with some text in it, and a link to the 
 [About]({{< relref "/about" >}}) page.
 
-{{< figure src="../images/doklady-1.png" class="float-right" caption=`
+{{< figure src="../../images/doklady-1.png" class="float-right" caption=`
 ##### Here is a caption for an image
 
 With some text below it`>}}
 
-{{< figure class="fig-side" src="../images/names-2.png" caption=`
+{{< figure class="fig-side" src="../../images/names-2.png" caption=`
 ##### Another Caption
 
 This figure is on its side.`>}}
@@ -51,7 +51,7 @@ Additionally, the following shortcode may be useful:
 
 For example, here is a floated figure and some text that wraps it:
 
-{{< figure src="../images/cards-still-1.png" class="fig-float" caption=`
+{{< figure src="../../images/cards-still-1.png" class="fig-float" caption=`
 ##### Left floating caption
 
 Using the **fig-float** class will float the figure to the left.`>}}
@@ -62,7 +62,7 @@ _This is some text that will go to the right of the previous image._
 
 This text is below the image, because it follows a ``clear`` shortcode.
 
-{{< figure src="../images/doklady-1.png" class="fig-float fig-right" caption=`
+{{< figure src="../../images/doklady-1.png" class="fig-float fig-right" caption=`
 ##### Right floating caption
 
 Using the **fig-float** _and_ **fig-right** classes will float the figure to the right.`>}}
@@ -75,7 +75,7 @@ _Text that wraps to the left of the right-floated image._
 
 To use a floating figure without a caption, simply omit the caption parameter:
 
-{{< figure src="../images/names-2.png" class="fig-float fig-left" >}}
+{{< figure src="../../images/names-2.png" class="fig-float fig-left" >}}
 
 {{< clear >}}
 
