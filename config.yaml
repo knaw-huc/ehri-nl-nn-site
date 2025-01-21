@@ -51,8 +51,8 @@ menu:
     - identifier: partners
       pageRef: partners
       weight: 30
-    - identifier: fellowships_training
-      pageRef: training
+    - identifier: projects
+      pageRef: projects
       weight: 40
     - identifier: services
       pageRef: services
@@ -104,8 +104,8 @@ languages:
         - identifier: partners
           pageRef: en/partners
           weight: 30
-        - identifier: fellowships_training
-          pageRef: en/training
+        - identifier: projects
+          pageRef: en/projects
           weight: 40
         - identifier: services
           pageRef: en/services

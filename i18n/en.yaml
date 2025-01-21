@@ -11,7 +11,7 @@ contact:
   other: Contact
 
 services:
-  other: Services
+  other: EHRI Services
 
 partners_funders:
   other: Partners/Funders
@@ -107,3 +107,6 @@ social_linkedin:
 
 social_linkedin_follow:
   other: Follow us on LinkedIn
+
+projects:
+  other: Services in NL
