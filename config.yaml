@@ -67,8 +67,8 @@ menu:
     - identifier: partners
       pageRef: partners
       weight: 30
-    - identifier: fellowships_training
-      pageRef: training
+    - identifier: projects
+      pageRef: projects
       weight: 40
   services:
     - identifier: portal
@@ -120,10 +120,13 @@ languages:
         - identifier: partners
           pageRef: en/partners
           weight: 30
-        - identifier: fellowships_training
-          pageRef: en/training
+        - identifier: projects
+          pageRef: en/projects
           weight: 40
       services:
+        - identifier: portal
+          pageRef: 'https://portal.ehri-project.eu/'
+          weight: 10
         - identifier: document_blog
           pageRef: 'https://blog.ehri-project.eu/'
           weight: 20
