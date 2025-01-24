@@ -6,10 +6,10 @@
   image: niod.png
   content: |
     Het [NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies](https://www.niod.nl) is een nationaal 
-en internationaal expertisecentrum voor interdisciplinair onderzoek naar de geschiedenis van wereldoorlogen, 
-grootschalig geweld en genociden, met inbegrip van hun maatschappelijke uitwerking op langere termijn. 
-Daarnaast verzamelt, bewaart en ontsluit het NIOD archieven en collecties, in het bijzonder over de Tweede 
-Wereldoorlog, en voorziet het een breed publiek, media en overheidsinstellingen van informatie.
+    en internationaal expertisecentrum voor interdisciplinair onderzoe  k naar de geschiedenis van wereldoorlogen, 
+    grootschalig geweld en genociden, met inbegrip van hun maatschappelijke uitwerking op langere termijn. 
+    Daarnaast verzamelt, bewaart en ontsluit het NIOD archieven en collecties, in het bijzonder over de Tweede 
+    Wereldoorlog, en voorziet het een breed publiek, media en overheidsinstellingen van informatie.
 
 - id: jck
   title: Joods Cultureel Kwartier
@@ -17,10 +17,10 @@ Wereldoorlog, en voorziet het een breed publiek, media en overheidsinstellingen 
   image: jck.png
   content: |
     Het Joods Cultureel Kwartier bestaat uit het Joods Museum + junior, de Portugese Synagoge, de Hollandsche 
-Schouwburg en het Nationaal Holocaustmuseum. In deze vier gebouwen - die samen meer dan 400 jaar Joods leven 
-in Nederland belichten - delen we kennis over de Joodse geschiedenis, kunst en cultuur. Dat doen we met 
-tentoonstellingen, evenementen en publicaties. Het Joods Cultureel Kwartier is een ontmoetingsplek voor iedereen 
-die nieuwsgierig is.
+    Schouwburg en het Nationaal Holocaustmuseum. In deze vier gebouwen - die samen meer dan 400 jaar Joods leven 
+    in Nederland belichten - delen we kennis over de Joodse geschiedenis, kunst en cultuur. Dat doen we met 
+    tentoonstellingen, evenementen en publicaties. Het Joods Cultureel Kwartier is een ontmoetingsplek voor iedereen 
+    die nieuwsgierig is.
 
 - id: uva
   title: Universiteit van Amsterdam
@@ -28,7 +28,7 @@ die nieuwsgierig is.
   image: uva.png
   content: |
     De [Universiteit van Amsterdam](https://www.uva.nl/) De UvA hoort tot Europa’s beste universiteiten. Met ruim 
-40.000 studenten, 6.000 medewerkers en 3.000 promovendi zijn we een intellectueel knooppunt in de wereld. De universiteit
-neemt deel aan EHRI-NL via het [Instituut voor Logica, Taal en Berekening](https://www.illc.uva.nl/), dat zich bevindt 
-op het interdisciplinaire gebied tussen wiskunde, taalkunde, muziek, informatica, filosofie en kunstmatige intelligentie, 
-specifieker de onderzoeksgroep [Natural Language Processing and Digital Humanities (NLP&DH)](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH)
+    40.000 studenten, 6.000 medewerkers en 3.000 promovendi zijn we een intellectueel knooppunt in de wereld. De universiteit
+    neemt deel aan EHRI-NL via het [Instituut voor Logica, Taal en Berekening](https://www.illc.uva.nl/), dat zich bevindt 
+    op het interdisciplinaire gebied tussen wiskunde, taalkunde, muziek, informatica, filosofie en kunstmatige intelligentie, 
+    specifieker de onderzoeksgroep [Natural Language Processing and Digital Humanities (NLP&DH)](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH)
