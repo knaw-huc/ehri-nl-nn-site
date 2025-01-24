@@ -1,5 +1,5 @@
 ---
-title: Partners
+title: EHRI-NL Partners
 type: partners
 ---
 
