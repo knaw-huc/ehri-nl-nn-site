@@ -1,17 +1,46 @@
 ---
 
-- id: test
-  title: Test 1234
-  url: https://example.com/
+- id: oorlogsbronnen
+  title: Oorlogsbronnen
+  url: https://www.oorlogsbronnen.nl/
   icon: article
-  image: test-image.jpg
+  image: oorlogsbronnen.jpg
   content: |
-    Test
+    Oorlogsbronnen.nl biedt toegang tot originele foto’s, objecten, brieven, administraties, dagboeken, affiches, krantenberichten, 
+    filmbeelden, et cetera. Deze ‘stille getuigen’ zijn afkomstig uit de collecties van meer dan 250 archiefinstellingen, musea, 
+    herinneringscentra en bibliotheken in binnen- en buitenland. Op Oorlogsbronnen.nl worden deze collecties aan elkaar gekoppeld 
+    rondom gebeurtenissen, plaatsen, personen en thema’s. Oorlogsbronnen.nl vormt zo een centrale online toegang tot originele 
+    bronnen, informatie en kennis over de Tweede Wereldoorlog.
 
-- id: test2
-  title: Test 2
-  url: https://example.com/
+- id: westerborkdigitaal
+  title: Westerbork Digitaal
+  url: https://collecties.kampwesterbork.nl/
   icon: article
-  image: test-image.jpg
+  image: westerborkdigitaal.jpg
   content: |
-    Test 2
+    Op de website Westerbork Digitaal kun je voor het eerst een kijkje nemen in hun digitale collecties. Hier wordt achter de schermen nog 
+    druk aan gewerkt. Je vindt naast foto's, documenten en andere collectiestukken ook veel aanvullende informatie over de geschiedenis van 
+    kamp Westerbork. Handig als je bijvoorbeeld onderzoek doet voor een scriptie of spreekbeurt, of als je gewoon nieuwsgierig bent. Als je 
+    op zoek bent naar informatie over specifieke personen, kun je ook zoeken op naam.
+
+- id: wo2thesaurus
+  title: WO2 Thesaurus
+  url: https://data.niod.nl/WO2_Thesaurus.html
+  icon: article
+  image: wo2thesaurus.jpg
+  content: |
+    De WO2-thesaurus is een gevalideerde, hiërarchisch georganiseerde trefwoordenlijst voor de thematische ontsluiting van (digitale) bronnen
+    uit de periode 1940-1945. De thesaurus bevat termen over gebeurtenissen, plaatsen, begrippen en objecten uit de Tweede Wereldoorlog. De 
+    trefwoorden zijn verdeeld over een aantal hoofdgebieden als Vervolging, Bestuur, Dagelijks Leven, Recht, etc. Tevens bevat de WO2-thesaurus 
+    een uitgebreide lijst van kampen en getto's in zowel Europa als Nederlands Indië; inclusief GPS coordinaten.
+
+- id: joodsmonument
+  title: Joods Monument
+  url: https://www.joodsmonument.nl/
+  icon: article
+  image: joodsmonument.jpg
+  content: |
+    Het Joods Monument is een online monument voor de meer dan  104.000 mensen die in Nederland als Joden werden vervolgd en de Holocaust niet overleefden.
+    Binnen het monument werken bezoekers, redactie, familieleden en historici samen aan het bundelen van verhalen en herinneringen. Zo schetst het monument 
+    een veelzijdig beeld van de geschiedenis van de Tweede Wereldoorlog, de Sjoa en de Joodse gemeenschap in Nederland. Het Joods Monument is onderdeel van 
+    het Joods Cultureel Kwartier.
