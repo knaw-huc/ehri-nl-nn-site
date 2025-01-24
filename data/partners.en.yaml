@@ -6,10 +6,10 @@
   image: niod.png
   content: |
     The [NIOD Institute for War, Holocaust and Genocide Studies](https://www.niod.nl/en) is a national 
-and international centre of expertise for interdisciplinary research into the history of world wars, 
-mass violence, and genocides, including their long-term social consequences. In addition, NIOD collects, 
-preserves, and provides access to archives and collections, especially about the Second World War, and 
-provides information to a broad public, the media, and governmental institutions.
+    and international centre of expertise for interdisciplinary research into the history of world wars, 
+    mass violence, and genocides, including their long-term social consequences. In addition, NIOD collects, 
+    preserves, and provides access to archives and collections, especially about the Second World War, and 
+    provides information to a broad public, the media, and governmental institutions.
 
 - id: JCK
   title: Jewish Cultural Quarter
@@ -17,10 +17,10 @@ provides information to a broad public, the media, and governmental institutions
   image: jck.png
   content: |
     The [Jewish Cultural Quarter](https://jck.nl/en) comprises the Jewish Museum + junior, Portuguese 
-Synagogue, Hollandsche Schouwburg and National Holocaust Museum. In four venues encompassing over four 
-centuries of Jewish life in the Netherlands we share the world of Jewish history, art and culture in a 
-wide range of exhibitions, events and publications. The Jewish Cultural Quarter is where the inquisitive 
-meet and discover.
+    Synagogue, Hollandsche Schouwburg and National Holocaust Museum. In four venues encompassing over four 
+    centuries of Jewish life in the Netherlands we share the world of Jewish history, art and culture in a 
+    wide range of exhibitions, events and publications. The Jewish Cultural Quarter is where the inquisitive 
+    meet and discover.
 
 - id: UvA
   title: University of Amsterdam
@@ -28,8 +28,8 @@ meet and discover.
   image: uva.png
   content: |
     The [University of Amsterdam](https://www.uva.nl/en) belongs to Europe’s top universities. With over 
-40,000 students, 6,000 staff members and 3,000 PhDs we are a hub of academic research and education. The univeristy
-participates in EHRI-NL through its [Institute for Logic, Language and Computation](https://www.illc.uva.nl/), a research 
-institute in the interdisciplinary area between mathematics, linguistics, music, computer science, philosophy and 
-artificial intelligence, more specifically its research unit on [Natural Language Processing and Digital Humanities (NLP&DH)]
-(https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH)
+    40,000 students, 6,000 staff members and 3,000 PhDs we are a hub of academic research and education. The univeristy
+    participates in EHRI-NL through its [Institute for Logic, Language and Computation](https://www.illc.uva.nl/), a research 
+    institute in the interdisciplinary area between mathematics, linguistics, music, computer science, philosophy and 
+    artificial intelligence, more specifically its research unit on [Natural Language Processing and Digital Humanities (NLP&DH)]
+    (https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH)
