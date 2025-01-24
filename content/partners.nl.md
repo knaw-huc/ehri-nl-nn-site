@@ -1,13 +1,14 @@
 ---
-title: Partners
+title: EHRI-NL partners
 type: partners
 ---
 
 {{< intro >}}
-27 Organisations in 17 Countries Worldwide
+Het EHRI-NL netwerk, volop in ontwikkeling
 {{< /intro >}}
 
-Currently, EHRI (EHRI-3 and EHRI-PP combined) has 27 partners, representing archives, libraries, museums and research institutions.
-The project also relies on a large network of cooperating partners and many other individuals and organisations in the broad fields of Holocaust studies and digital humanities.
-Here you can find an overview of the EHRI partners, first phase (2010-2015) and EHRI partners, second phase (2015-2019).
-These are our current partners (EHRI-PP and EHRI-3), located in 17 different countries:
+Sinds begin 2023 wordt er hard gewerkt aan de ontwikkeling van een Nederlandse tak van de European Holocaust Research Infrastructure. Tijdens bijeenkomsten van dit netwerk in opbouw spraken partners uit dat een platform waarin onderzoekers, archiefinstellingen en herinneringscentra elkaar ontmoeten van grote waarde is.
+
+Op dit moment wordt er gewerkt aan samenwerkingsovereenkomsten met geïnteresseerde partners. Mocht uw instituut geïnteresseerd zijn in samenwerking met EHRI-NL, dan vernemen we het natuurlijk altijd graag!
+
+Op dit moment bestaat het groeiende netwerk uit de volgende partners:
