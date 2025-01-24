@@ -4,5 +4,5 @@ type: projects
 ---
 
 {{< intro >}}
-Hier vindt u een overzicht van de digitale diensten die zijn ontwikkeld en gehost door EHRI-NL partnerinstellingen:
+Hier vindt u een overzicht van relevante diensten in de context van EHRI-NL, ontwikkeld en gehost door partnerinstellingen:
 {{< /intro >}}
