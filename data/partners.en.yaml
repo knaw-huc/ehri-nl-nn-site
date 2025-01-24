@@ -1,6 +1,6 @@
 ---
 
-- id: NIOD
+- id: niod
   title: NIOD Institute for War, Holocaust and Genocide Studies
   url: https://www.niod.nl/en
   image: niod.png
@@ -11,7 +11,7 @@
     preserves, and provides access to archives and collections, especially about the Second World War, and 
     provides information to a broad public, the media, and governmental institutions.
 
-- id: JCK
+- id: jck
   title: Jewish Cultural Quarter
   url: https://jck.nl/en
   image: jck.png
@@ -22,7 +22,7 @@
     wide range of exhibitions, events and publications. The Jewish Cultural Quarter is where the inquisitive 
     meet and discover.
 
-- id: UvA
+- id: uva
   title: University of Amsterdam
   url: https://www.niod.nl/en
   image: uva.png
