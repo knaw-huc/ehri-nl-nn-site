@@ -6,14 +6,7 @@
   icon: article
   image: oorlogsbronnen.png
   content: |
-    Oorlogsbronnen.nl provides access to original photographs, objects, letters, administrations, diaries, posters, newspaper reports, 
-    film footage, et cetera. These 'silent witnesses' come from the collections of more than 250 archival institutions, museums, memorial 
-    centers and libraries at home and abroad. On Oorlogsbronnen.nl these collections are linked together around events, places, people and 
-    themes. Oorlogsbronnen.nl thus forms a central online access to original sources, information and knowledge about World War II.
-
-    This website is only available in Dutch. Tip: a browser plug-in can be helpful in translating the content of the website, allowing
-    you to navigate Oorlogsbronnen in your language of preference. However, please be mindful of the fact that automated translations are not
-    without mistakes.
+    Access to primary source materials from more than 250 archival institutions, museums, memory centers and libraries in The Netherlands and abroad.
 
 - id: westerborkdigitaal
   title: "Westerbork Digital"
@@ -21,10 +14,7 @@
   icon: article
   image: westerborkdigitaal.png
   content: |
-    On the Westerbork Digital website you can take a look at their digital collections for the first time. At this moment, the website is still under 
-    construction behind the scenes. In addition to photographs, documents and other collection items, you will also find a lot of additional information 
-    about the history of camp Westerbork. Useful, for example, if you are doing research for a thesis or talk, or if you are just curious. 
-    If you are looking for information about specific people, you can also search by name.
+    In addition to photographs, documents and other collection items, this website also contains a wealth of information about the history of camp Westerbork.
 
 - id: wo2thesaurus
   title: "WW2 Thesaurus"
@@ -32,10 +22,7 @@
   icon: article
   image: wo2thesaurus.png
   content: |
-    The WW2 Thesaurus is a validated, hierarchically organized keyword list for the thematic disclosure of (digital) sources from the period 1940-1945. 
-    The thesaurus contains terms about World War II events, places, concepts and objects. The keywords are divided into several main areas such as Persecution, 
-    Administration, Daily Life, Law, etc. Also, the WW2 thesaurus contains a comprehensive list of camps and ghettos in both Europe and the Dutch East Indies; 
-    including GPS coordinates.
+    The validated, hierarchically organized keyword list for the thematic labelling of (digital) sources from the period 1940-1945.
 
 - id: joodsmonument
   title: "Joods Monument (translated: Jewish Monument)"
@@ -43,7 +30,4 @@
   icon: article
   image: joodsmonument.png
   content: |
-    The Jewish Monument (www.joodsmonument.nl) commemorates the more than 104,000 persons who were persecuted as Jews in the Netherlands and who did not survive 
-    the Holocaust. Within this online monument, visitors, editors, family members and historians work together to combine stories and memories. For example, the 
-    monument paints a multifaceted picture of the history of the Second World War, the Shoah and the Jewish community in the Netherlands. The Jewish Monument is 
-    part of the Jewish Cultural Quarter.
+    An online monument to the more than 104,000 people who were persecuted as Jews in the Netherlands and did not survive the Holocaust.
