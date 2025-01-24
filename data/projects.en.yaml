@@ -1,7 +1,7 @@
 ---
 
 - id: oorlogsbronnen
-  title: Oorlogsbronnen (translated: War Sources)
+  title: "Oorlogsbronnen (translated: War Sources)"
   url: https://www.oorlogsbronnen.nl/
   icon: article
   image: oorlogsbronnen.png
@@ -16,7 +16,7 @@
     without mistakes.
 
 - id: westerborkdigitaal
-  title: Westerbork Digital
+  title: "Westerbork Digital"
   url: https://collecties.kampwesterbork.nl/about-this-website
   icon: article
   image: westerborkdigitaal.png
@@ -27,7 +27,7 @@
     If you are looking for information about specific people, you can also search by name.
 
 - id: wo2thesaurus
-  title: WW2 Thesaurus
+  title: "WW2 Thesaurus"
   url: https://data.niod.nl/WO2_Thesaurus.html
   icon: article
   image: wo2thesaurus.png
@@ -38,7 +38,7 @@
     including GPS coordinates.
 
 - id: joodsmonument
-  title: Joods Monument (translated: Jewish Monument)
+  title: "Joods Monument (translated: Jewish Monument)"
   url: https://www.joodsmonument.nl/
   icon: article
   image: joodsmonument.png
