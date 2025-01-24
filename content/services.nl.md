@@ -4,5 +4,5 @@ type: services
 ---
 
 {{< intro >}}
-Below are some of the innovative services created by EHRI for use by all:
+Hieronder vindt u een selectie van de diensten die door EHRI in Europa werden ontwikkeld voor Holocaustonderzoekers, archiefinstellingen en andere geïnteresseerden:
 {{< /intro >}}
