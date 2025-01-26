@@ -1,5 +1,5 @@
 ---
-title: Services in NL
+title: Services in the Netherlands
 type: projects
 ---
 
