@@ -4,5 +4,5 @@ type: projects
 ---
 
 {{< intro >}}
-Here you will find an overview of the digital services developed and hosted by EHRI-NL partner institutions:
+Here you will find an overview of the digital services that are relevant in the context of EHRI-NL, developed and hosted by the Dutch partner network:
 {{< /intro >}}
