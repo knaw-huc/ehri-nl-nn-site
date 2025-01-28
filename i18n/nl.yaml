@@ -14,7 +14,7 @@ services:
   other: EHRI-Services
 
 partners_funders:
-  other: Partners & financiers
+  other: Partners & financierders
 
 fellowships_training:
   other: Fellowships & training
@@ -72,7 +72,7 @@ contact_form_send:
   other: Verzend bericht
 
 contact_coordinators:
-  other: Coordinators van {{ .Title }}
+  other: Coördinatoren van {{ .Title }}
 
 contact_social:
   other: "{{ .Title }} op sociale media"
