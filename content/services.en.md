@@ -4,5 +4,5 @@ type: services
 ---
 
 {{< intro >}}
-Below you will find some of the innovative services created by EHRI for use by all:
+Below you will find some of the innovative services created by EHRI in Europe for researchers, archivists and anyone who wishes to make use of them.
 {{< /intro >}}
