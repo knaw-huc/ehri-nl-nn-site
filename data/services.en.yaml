@@ -35,3 +35,11 @@
       url: https://geodata.ehri-project.eu/
     - title: Documentation
       url: https://documentation.ehri-project.eu/en/latest/geospatial/index.html
+
+- id: podcast
+  title: EHRI Podcast
+  url: https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/
+  icon: lab_profile
+  image: doklady-1.png
+  content: |
+    In each episode of For the Living and the Dead, a Holocaust researcher talks about an object that tells a very personal story about the Holocaust.
