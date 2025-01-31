@@ -1,40 +1,22 @@
 ---
-title: Step 1 Application om EHRI-ERIC op te richten verzonden naar de EU
-linkTitle: Step 1 EHRI-ERIC Application
-date: 2023-07-13
-image: EHRI-services-infrastructure-v01.jpg
-summary: |
-  Op 13 juli 2023 heeft het Nederlandse Ministerie van Onderwijs, Cultuur en Wetenschap
-  bij de Europese Unie de stap 1 aanvraag voor EHRI, de European Holocaust 
-  Holocaust Research Infrastructure, om zich te vestigen als een European Research 
-  Infrastructuur Consortium (ERIC). 
+title: EHRI-NL Consortiumbijeenkomst #3 - Hoe Holocaustonderzoekers en archieven samen nieuwe inzichten genereren. Het wetenschappelijk programma van EHRI-NL in relatie tot de digitalisering van het Centraal Archief Bijzondere Rechtspleging (CABR).
+date: 2024-10-22
+image: ehri-nl-meeting-03.jpg
 ---
 
-Op 13 juli 2023 heeft het Nederlandse Ministerie van Onderwijs, Cultuur en Wetenschap 
-bij de Europese Unie de stap 1 aanvraag voor EHRI, de European Holocaust 
-Research Infrastructure, om zich te vestigen als een European Research Infrastructure Consortium (ERIC).
+{{< intro >}}
+De derde consortiumbijeenkomst van EHRI-NL, het Nederlandse knooppunt van de European Holocaust Research Infrastructure (EHRI) in oprichting, vond plaats op 11 september 2024 in het auditorium van het Nationaal Holocaust Museum in Amsterdam. We denken met plezier terug aan een informatieve middag, waarin zowel de digitalisering van CABR als de context waarin het archief tot stand is gekomen uitgebreid werden toegelicht.{{< /intro >}}
 
-“Met deze indiening zijn we goed op weg om EHRI om te vormen van 
-van een reeks succesvolle projecten die sinds 2010 lopen tot een permanente 
-Europese organisatie die de toekomst van transnationaal Holocaustonderzoek zal helpen veiligstellen, 
-herdenking en onderwijs,” legt Dr. Reto Speck, Co-Directeur van EHRI, uit.
+Zo'n veertig deelnemers verzamelden zich om 13.00 uur in het auditorium voor een vol programma. Bijna alle aanwezigen waren onderzoekers, historici, wetenschappers, collectiespecialisten, schrijvers of archivarissen met een relatie tot de Holocaust of de Tweede Wereldoorlog. Verschillende Nederlandse instellingen, van de VU tot het Joods Cultureel Kwartier, van het Nationaal tot het Gelders Archief, van het NIOD tot Kamp Westenbork waren vertegenwoordigd.
 
-Kort voor de indiening van stap 1 besloot de interim Algemene Vergadering (iGA) 
-unaniem om alle benodigde documenten goed te keuren voor dit eerste deel van de 
-aanvraagprocedure. De iGA bestaat uit vertegenwoordigers van de 11 toekomstige 
-oprichtende landen van het ERIC en is de belangrijkste commissie die de documentatie voor het oprichtingsproces voorbereidt en 
-documentatie voorbereidt en beoordeelt voor het proces van oprichting van EHRI-ERIC. EHRI begon als een 
-project in 2010 en bevindt zich nu in de derde fase met 27 partners in 15 Europese landen, 
-Israël en de Verenigde Staten. Het Nederlandse [NIOD](https://niod.nl) Instituut voor Oorlogs-, Holocaust- en Genocidestudies is coördinator van de projecten. 
-Studies is coördinator van de projecten en Nederland is gekozen als het 
-gastland van het ERIC.
+Onderzoekers en archivarissen of collectiespecialisten samen op één bijeenkomst komt minder vaak voor dan je zou verwachten. Het thema was dan ook “Hoe Holocaustonderzoekers en archieven samen nieuwe inzichten genereren”. EHRI-NL's scholarly program in relation to the digitization of the Central Archive on Special Jurisdiction (CABR),” waarbij dit archief als case study diende om de interactie tussen onderzoeker en collectiebeherende instelling te onderzoeken.
 
-De Europese Commissie zal de Stap 1 aanvraag beoordelen door het inwinnen van de mening van 
-onafhankelijke deskundigen. Naar verwachting zal EHRI na 3 maanden worden geïnformeerd over de 
-resultaten van de beoordeling. Rekening houdend met noodzakelijke wijzigingen zal EHRI dan 
-overgaan tot stap 2, namelijk een formeel verzoek aan de Commissie om het ERIC op te richten, 
-ondertekend door alle toekomstige leden van het ERIC.
+Na de introductie van het CABR onderzochten de deelnemers hoe de optimale samenwerking tussen archivaris en onderzoeker eruit zou kunnen zien, gebaseerd op deze specifieke casestudy. De belangrijkste gedeelde observatie was dat actieve interactie tussen de twee domeinen kan helpen om blinde vlekken aan beide kanten te verhelpen. Diepere kennis over de achtergrond waartegen archieven en collecties werden gecreëerd, kan het bewustzijn van onderzoekers over de mogelijke selectieve aard en kleuring (bias) vergroten. Omgekeerd kunnen de kennis, ervaring en wensen van de onderzoeker de archivaris helpen om beter geïnformeerde acquisities te doen, te selecteren (voor digitalisering), te digitaliseren en te archiveren.
 
-“Na goedkeuring door de Europese Commissie is EHRI dan klaar om zich te vestigen als 
-een ERIC,” zegt Reto Speck, ”Het is onze oprechte wens om EHRI-ERIC te lanceren voor januari 2025, de 
-80ste verjaardag van de bevrijding van Auschwitz.”
+Als je meer wilt weten over EHRI-NL of de netwerkbijeenkomsten, neem dan contact op met ehri-nl@niod.knaw.nl voor meer informatie.
+
+---
+
+Beneden: De panelleden verkennen de optimale samenwerking tussen archivaris en onderzoeker. Van links naar rechts: Frank Uiterwaal (voorzitter: NIOD), Edwin Klijn (WO2NET), Petra Links (Gelders Archief), Marjolein Uittenbogaard (NIOD) en Robin te Slaa (zelfstandig onderzoeker).
+
+![EHRI-NL consortium meeting](./ehri-nl-meeting-03.jpg)
