@@ -20,6 +20,6 @@ If you would like to know more about EHRI-NL or its network meetings, please rea
 
 ---
 
-_Below: the panelists explore the optimal collaboration between archivist and researcher. Cover image: [concentration camps dataset](https://geodata.ehri-project.eu/geonetwork/srv/eng/catalog.search#/metadata/52302460-13fd-4914-b496-2f0230e996e1)._
+_Below: the panelists explore the optimal collaboration between archivist and researcher.
 
-![EHRI Geospatial Repository](./ehri-geospatial-repository-screenshot.png)
+![EHRI Geospatial Repository](./ehri-nl-meeting-03.jpg)
