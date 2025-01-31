@@ -1,8 +1,7 @@
 ---
-title: EHRI Launches its Geospatial Repository
-date: 2023-06-19
-image: ehri-geospatial-repository.png
-linkTitle: EHRI Geospatial Repository
+title: Report EHRI-NL Meeting #3
+date: 2024-10-22
+image: ehri-nl-meeting-03.jpg
 ---
 
 {{< intro >}}
