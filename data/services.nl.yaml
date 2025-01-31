@@ -30,4 +30,12 @@
   image: geodata.png
   content: |
     De EHRI Geospatial Repository biedt toegang tot datasets die het mogelijk maken om kaarten te maken en te analyseren, gerelateerd aan de Holocaust.
+
+- id: podcast
+  title: EHRI Podcast
+  url: https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/
+  icon: lab_profile
+  image: doklady-1.png
+  content: |
+    In elke aflevering van For the Living and the Dead vertelt een Holocaust-onderzoeker over een object met een persoonlijk verhaal over de Holocaust.
     
