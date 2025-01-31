@@ -1,40 +1,22 @@
 ---
-title: Report EHRI-NL Meeting #3
+title: EHRI-NL Meeting #3 - How Holocaust researchers and archives are generating new insights together. EHRI-NL's scientific program in relation to the digitization of the Central Archive on Special Jurisdiction (CABR).
 date: 2024-10-22
 image: ehri-nl-meeting-03.jpg
 ---
 
 {{< intro >}}
-Have you ever needed to build a map of ghettos or camps for your research project? Analyse 
-distances between them or trajectories walked by prisoners? Share your datasets with others 
-in a reusable way?
-
-The new [EHRI Geospatial Repository](https://geodata.ehri-project.eu/) aims to help researchers with these and similar challenges.
+The third meeting of EHRI-NL, the Dutch node of the European Holocaust Research Infrastructure (EHRI) in formation, took place on Sept. 11, 2024, in the auditorium of the National Holocaust Museum in Amsterdam. We reflect fondly on an informative afternoon, in which both the digitization of CABR and the context in which the archive was created were explained in detail.
 {{< /intro >}}
 
-By providing access to data about Holocaust-related places and spaces, the EHRI Geospatial Repository 
-facilitates research driven by spatial and geographic approaches. It builds on the spatial turn in the
-field of Holocaust Studies: Over the past years, the research in Holocaust geographies, as conducted by
-the [Holocaust Geographies Collaborative](http://holocaustgeographies.org/) and others, advanced new 
-perspectives and methods. Thinking through place and space helps to formulate new questions and research projects.
+Some forty participants gathered in the auditorium at 1 p.m. for a full program. Almost all present were researchers, historians, scholars, collection specialists, writers or archivists with a relationship to the Holocaust or World War II. Several Dutch institutions, from the VU to the Jewish Cultural Quarter, from the National to the Gelderland Archives, from the NIOD to Camp Westenbork were represented.
 
-The Geospatial Repository was developed within the EHRI-3 project in response to user needs: Our survey and 
-focus groups indicated a strong demand for better access to standardised geospatial information. It showed 
-that researchers, projects and institutions struggle to access the historical data that makes it possible 
-to build maps, enrich datasets with place information, and more.
+Researchers and archivists or collection specialists together in one meeting is less common than you might expect. So the theme was, “How Holocaust researchers and archives are generating new insights together. EHRI-NL's scholarly program in relation to the digitization of the Central Archive on Special Jurisdiction (CABR),” with this archive serving as a case study to examine the interaction between researcher and collection managing institution.
 
-The EHRI Geospatial Repository provides researchers, projects and organisations with the means to:
+After the introduction of the CABR, the participants explored what the optimal collaboration between archivist and researcher might look like, based on this particular case study. The main, shared observation was that active interaction between the two domains can help to remedy blind spots on either side. Deeper knowledge about the background against which archives and collections were created can increase researchers' awareness of the possible selective nature and coloration (bias). Conversely, the knowledge, experience and wishes of the researcher can help the archivist to make better informed acquisitions, select (for digitization, for example) and enrich.
 
-- store and share geodata in a standard compliant, reusable way
-- search and explore datasets based on their metadata
-- use, download and combine datasets for mapping, data enrichment or spatial analysis
 
-Currently filled with the first set of sample datasets, the Repository aims to provide access to a 
-growing scope of geospatial data relating to the Holocaust. If you are interested in using it or 
-contributing, please head to https://geodata.ehri-project.eu/.
+If you would like to know more about EHRI-NL or its network meetings, please reach out to ehri-nl@niod.knaw.nl for more information.
 
-If you have any questions, please read the [documentation](http://documentation.ehri-project.eu/en/latest/geospatial/) 
-or contact us via email at geodata@ehri-project.eu.
 
 ---
 
