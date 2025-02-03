@@ -1,0 +1,9 @@
+{{ define "main" }}
+    <section class="page-content projects">
+
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+
+        {{ partial "projects" . }}
+    </section>
+{{ end }}

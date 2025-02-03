@@ -1,0 +1,33 @@
+---
+
+- id: oorlogsbronnen
+  title: Oorlogsbronnen
+  url: https://www.oorlogsbronnen.nl/
+  icon: article
+  image: oorlogsbronnen.png
+  content: |
+    Toegang tot primair bronmateriaal van meer dan 250 archiefinstellingen, musea, herinneringscentra en bibliotheken in binnen- en buitenland. 
+
+- id: westerborkdigitaal
+  title: Westerbork Digitaal
+  url: https://collecties.kampwesterbork.nl/
+  icon: article
+  image: westerborkdigitaal.png
+  content: |
+    Naast foto's, documenten en andere collectiestukken tevens een schat aan aanvullende informatie over de geschiedenis van kamp Westerbork. 
+
+- id: wo2thesaurus
+  title: WO2 Thesaurus
+  url: https://data.niod.nl/WO2_Thesaurus.html
+  icon: article
+  image: wo2thesaurus.png
+  content: |
+    De gevalideerde, hiërarchisch georganiseerde trefwoordenlijst voor de thematische ontsluiting van (digitale) bronnen uit de periode 1940-1945.
+
+- id: joodsmonument
+  title: Joods Monument
+  url: https://www.joodsmonument.nl/
+  icon: article
+  image: joodsmonument.png
+  content: |
+    Een online monument voor de meer dan 104.000 mensen die in Nederland als Joden werden vervolgd en de Holocaust niet overleefden.

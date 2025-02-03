@@ -1,0 +1,19 @@
+---
+
+- id: frank
+  name: Frank Uiterwaal
+  email: f.uiterwaal@niod.knaw.nl
+  image: uiterwaal.jpg
+  about: |
+    Frank Uiterwaal is als informatieanalist verbonden aan het [NIOD Instituut voor Oorlogs-, Holocaust- en 
+    Genocidestudies](https://www.niod.nl/). Tevens is hij projectleider achter het EHRI-NL initiatief.
+  contact: true
+
+- id: vos
+  name: Victor-Jan Vos
+  email: v.vos@niod.knaw.nl
+  image: vos.jpg
+  about: |
+    Victor-Jan Vos is hoofd Collecties & Diensten binnen het [NIOD Instituut voor Oorlogs-, Holocaust- en 
+    Genocidestudies](https://www.niod.nl/). Binnen EHRI-NL is hij projectdirecteur.
+  contact: true

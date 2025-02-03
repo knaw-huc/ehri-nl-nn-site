@@ -1,17 +1,35 @@
 ---
 
-- id: whl
-  title: The Wiener Holocaust Library
-  url: https://wienerholocaustlibrary.org/
-  image: wiener-logo.svg
+- id: niod
+  title: NIOD Institute for War, Holocaust and Genocide Studies
+  url: https://www.niod.nl/en
+  image: niod.png
   content: |
-    The [Wiener Holocaust Library](https://wienerholocaustlibrary.org/) is one of the world's leading and most extensive archives on the Holocaust and Nazi era.
-    Formed in 1933, the Library's unique collection of over one million items includes published and unpublished works, press cuttings, photographs and eyewitness testimony.
-    The Library provides a resource to oppose anti-Semitism and other forms of prejudice and intolerance.
+    The [NIOD Institute for War, Holocaust and Genocide Studies](https://www.niod.nl/en) is a national 
+    and international centre of expertise for interdisciplinary research into the history of world wars, 
+    mass violence, and genocides, including their long-term social consequences. In addition, NIOD collects, 
+    preserves, and provides access to archives and collections, especially about the Second World War, and 
+    provides information to a broad public, the media, and governmental institutions.
 
-    The library exists to serve scholars, professional researchers, the media and the public as a library of record and is a living memorial to the evils of the past,
-    ensuring that its wealth of materials is put at the service of the future. The Wiener Holocaust Library aims to engage people of all ages and backgrounds in
-    understanding the Holocaust and its historical context through an active educational programme and by communicating the accessibility, power and contemporary
-    relevance of its collections as a national resource for those wishing to prevent possible future genocides.
+- id: jck
+  title: Jewish Cultural Quarter
+  url: https://jck.nl/en
+  image: jck.png
+  content: |
+    The [Jewish Cultural Quarter](https://jck.nl/en) comprises the Jewish Museum + junior, Portuguese 
+    Synagogue, Hollandsche Schouwburg and National Holocaust Museum. In four venues encompassing over four 
+    centuries of Jewish life in the Netherlands we share the world of Jewish history, art and culture in a 
+    wide range of exhibitions, events and publications. The Jewish Cultural Quarter is where the inquisitive 
+    meet and discover.
 
-    The Wiener Holocaust Library is involved in governance and legal work, finance, sustainability and research and innovation strategy.
+- id: uva
+  title: University of Amsterdam
+  url: https://www.niod.nl/en
+  image: uva.png
+  content: |
+    The [University of Amsterdam](https://www.uva.nl/en) belongs to Europe’s top universities. With over 
+    40,000 students, 6,000 staff members and 3,000 PhDs we are a hub of academic research and education. The univeristy
+    participates in EHRI-NL through its [Institute for Logic, Language and Computation](https://www.illc.uva.nl/), a research 
+    institute in the interdisciplinary area between mathematics, linguistics, music, computer science, philosophy and 
+    artificial intelligence, more specifically its research unit on [Natural Language Processing and Digital Humanities (NLP&DH)]
+    (https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH)

@@ -1,8 +1,8 @@
 news:
-  other: News
+  other: Nieuws
 
 about:
-  other: About
+  other: Over EHRI-NL
 
 partners:
   other: Partners
@@ -11,13 +11,13 @@ contact:
   other: Contact
 
 services:
-  other: EHRI Services
+  other: EHRI-Services
 
 partners_funders:
-  other: Partners/Funders
+  other: Partners & financierders
 
 fellowships_training:
-  other: Fellowships & Training
+  other: Fellowships & training
 
 document_blog:
   other: Document Blog
@@ -32,81 +32,81 @@ podcast:
   other: Podcast
 
 learn_more:
-  other: Learn More
+  other: Lees meer...
 
 read_more:
-  other: Read More
+  other: Lees meer...
 
 latest:
-  other: Latest
+  other: Het meest recente nieuws
 
 ehri_services:
   other: EHRI Services
 
 below_are_some:
-  other: Below are some of the innovative services created by EHRI for use by all.
+  other: Hieronder vindt u een aantal van EHRI's services
 
 more_about_mission:
-  other: More about EHRI's mission and vision
+  other: Meer over EHRI's missie en visie
 
 go_to:
-  other: Go to {{ .Name }}
+  other: Ga naar {{ .Name }}
 
 # Contact page
 contact_send_message:
-  other: Send us a message
+  other: Stuur ons een bericht
 
 contact_form_name:
-  other: Name
+  other: Naam
 
 contact_form_email:
   other: Email
 
 contact_form_subject:
-  other: Subject
+  other: Onderwerp
 
 contact_form_message:
-  other: Leave us a message...
+  other: Laat een bericht voor ons achter...
 
 contact_form_send:
-  other: Send message
+  other: Verzend bericht
 
 contact_coordinators:
-  other: Coordinators for {{ .Title }}
+  other: Coördinatoren van {{ .Title }}
 
 contact_social:
-  other: "{{ .Title }} on social media"
+  other: "{{ .Title }} op sociale media"
 
 contact_thanks:
-  other: Thanks for your message
+  other: Dank voor uw bericht
 
 contact_back:
-  other: Go back to the form
+  other: Ga terug naar het formulier
 
 # Social media
 social_media:
-  other: Social Media
+  other: Sociale media
 
 social_follow_us:
-  other: Follow us on social media
+  other: Volg ons op sociale media
 
 social_facebook:
   other: Facebook
 
 social_facebook_follow:
-  other: Follow us on Facebook
+  other: Volg ons op Facebook
 
 social_x:
-  other: X (formerly Twitter)
+  other: X (voorheen Twitter)
 
 social_x_follow:
-  other: Follow us on X (formerly Twitter)
+  other: Volg ons op X (voorheen Twitter)
 
 social_linkedin:
   other: LinkedIn
 
 social_linkedin_follow:
-  other: Follow us on LinkedIn
+  other: Volg ons op LinkedIn
 
 projects:
-  other: Services in NL
+  other: Diensten in NL

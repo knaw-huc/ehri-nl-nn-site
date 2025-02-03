@@ -1,28 +1,20 @@
 ---
 
-- id: pistol
-  name: Dr. Rachel Pistol
-  email: feedback@ehri-uk.org
-  image: pistol.webp
-  about: >
-    Rachel Pistol is a digital historian based at
-    [King's College London](https://www.kcl.ac.uk/people/dr-rachel-pistol)
-    and is an Associate Advisor to The Wiener Holocaust Library, London.
-    She specialises in immigration and refugee history, Second World War
-    internment in the UK, and refugee trajectories. She is a member of the
-    EHRI Project Management Board where she coordinates dissemination,
-    innovation and virtual access activities.
+- id: frank
+  name: Frank Uiterwaal
+  email: f.uiterwaal@niod.knaw.nl
+  image: uiterwaal.jpg
+  about: |
+    Frank Uiterwaal is an information Analyst, based at the [NIOD Institute for War, Holocaust and
+    Genocidestudies](https://www.niod.nl/en). He is also active as the project lead in the EHRI-NL
+    consortium.
   contact: true
 
-- id: schmidt
-  name: Dr. Christine Schmidt
-  email: feedback@ehri-uk.org
-  image: schmidt.webp
+- id: vos
+  name: Victor-Jan Vos
+  email: v.vos@niod.knaw.nl
+  image: vos.jpg
   about: |
-    Christine Schmidt is a historian of the Holocaust, with a passion for and
-    commitment to public history, archives, and cultural heritage. She is Deputy
-    Director and Head of Research at
-    [The Wiener Holocaust Library](https://wienerholocaustlibrary.org),
-    London, where she oversees their academic programming and research initiatives,
-    curates exhibitions, and develops research partnerships.
+    Victor-Jan Vos is head of Collections & Services at the [NIOD Institute for War, Holocaust and
+    Genocidestudies](https://www.niod.nl/en). Furthermore, he is the project director of EHRI-NL.
   contact: true

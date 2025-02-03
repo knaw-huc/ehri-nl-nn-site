@@ -1,0 +1,41 @@
+---
+
+- id: portal
+  title: The EHRI Portal
+  url: https://portal.ehri-project.eu/
+  icon: meeting_room
+  image: cards-still-1.png
+  content: |
+    De EHRI Portal biedt toegang tot informatie over Holocaust-gerelateerd archiefmateriaal, binnen Europa en daarbuiten
+    
+- id: blog
+  title: Document Blog
+  url: https://blog.ehri-project.eu/
+  icon: article
+  image: names-2.png
+  content: |
+    De EHRI Document Blog is een plek om ideeën te delen over Holocaust-gerelateerde documenten, hun presentatie en interpretatie, gebruikmakend van digitale middelen.
+    
+- id: editions_dr
+  title: Diplomatic Reports
+  url: https://diplomatic-reports.ehri-project.eu/
+  icon: lab_profile
+  image: doklady-1.png
+  content: |
+    De Online Editie "Diplomatic Reports" geeft een inkijk in hoe diplomaten de vervolging van Joden beschreven tijdens de Tweede Wereldoorlog.
+    
+- id: geodata
+  title: Geospatial Repository
+  icon: article
+  image: geodata.png
+  content: |
+    De EHRI Geospatial Repository biedt toegang tot datasets die het mogelijk maken om kaarten te maken en te analyseren, gerelateerd aan de Holocaust.
+
+- id: podcast
+  title: EHRI Podcast
+  url: https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/
+  icon: lab_profile
+  image: doklady-1.png
+  content: |
+    In elke aflevering van For the Living and the Dead vertelt een Holocaust-onderzoeker over een object met een persoonlijk verhaal over de Holocaust.
+    

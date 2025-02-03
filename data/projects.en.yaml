@@ -1,0 +1,33 @@
+---
+
+- id: oorlogsbronnen
+  title: "Oorlogsbronnen (translated: War Sources)"
+  url: https://www.oorlogsbronnen.nl/
+  icon: article
+  image: oorlogsbronnen.png
+  content: |
+    Access to primary source materials from more than 250 archival institutions, museums, memory centers and libraries in The Netherlands and abroad.
+
+- id: westerborkdigitaal
+  title: "Westerbork Digital"
+  url: https://collecties.kampwesterbork.nl/about-this-website
+  icon: article
+  image: westerborkdigitaal.png
+  content: |
+    In addition to photographs, documents and other collection items, this website also contains a wealth of information about the history of camp Westerbork.
+
+- id: wo2thesaurus
+  title: "WW2 Thesaurus"
+  url: https://data.niod.nl/WO2_Thesaurus.html
+  icon: article
+  image: wo2thesaurus.png
+  content: |
+    The validated, hierarchically organized keyword list for the thematic labelling of (digital) sources from the period 1940-1945.
+
+- id: joodsmonument
+  title: "Joods Monument (translated: Jewish Monument)"
+  url: https://www.joodsmonument.nl/
+  icon: article
+  image: joodsmonument.png
+  content: |
+    An online monument to the more than 104,000 people who were persecuted as Jews in the Netherlands and did not survive the Holocaust.
