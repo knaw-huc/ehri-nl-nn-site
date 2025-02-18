@@ -1,7 +1,7 @@
 ---
 title: EHRI-NL Meeting #3 - How Holocaust researchers and archives are generating new insights together. EHRI-NL's scientific program in relation to the digitization of the Central Archive on Special Jurisdiction (CABR).
 date: 2024-10-22
-image: ehri-nl-meeting-03.jpg
+image: national_holocaust_museum.jpg
 ---
 
 {{< intro >}}
