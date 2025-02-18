@@ -22,4 +22,4 @@ If you would like to know more about EHRI-NL or its network meetings, please rea
 
 Below: the panelists explore the optimal collaboration between archivist and researcher. Left to right: Frank Uiterwaal (chair: NIOD), Edwin Klijn (WO2NET), Petra Links (Gelders Archief), Marjolein Uittenbogaard (NIOD) and Robin te Slaa (independent researcher).
 
-![EHRI-NL consortium meeting](./ehri-nl-meeting-03.jpg | width=100)
+![EHRI-NL consortium meeting](./ehri-nl-meeting-03.jpg)
