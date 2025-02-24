@@ -32,11 +32,11 @@
   content: |
     Een online monument voor de meer dan 104.000 mensen die in Nederland als Joden werden vervolgd en de Holocaust niet overleefden.
 
-- id: joodsmonument
+- id: annefrankkennisbank
   title: Anne Frank Kennisbank
   url: https://research.annefrank.org/nl/?page=1&q=Anne%20Frank
   icon: article
-  image: annefrank-nl.jpg
+  image: annefrank-nl.png
   content: |
     Beschrijvingen, metadata en onderlinge verbindingen van honderden personen, gebeurtenissen, locaties en onderwerpen.
 
