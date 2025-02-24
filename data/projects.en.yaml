@@ -31,3 +31,11 @@
   image: joodsmonument.png
   content: |
     An online monument to the more than 104,000 people who were persecuted as Jews in the Netherlands and did not survive the Holocaust.
+
+- id: annefrankkennisbank
+  title: Anne Frank Knowledge Bank
+  url: https://research.annefrank.org/en/?page=1&q=Anne%20Frank
+  icon: article
+  image: annefrank-en.jpg
+  content: |
+    Beschrijvingen, metadata en onderlinge verbindingen van honderden personen, gebeurtenissen, locaties en onderwerpen.
