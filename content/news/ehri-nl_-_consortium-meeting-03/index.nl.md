@@ -1,7 +1,7 @@
 ---
 title: EHRI-NL Consortiumbijeenkomst #3 - Hoe Holocaustonderzoekers en archieven samen nieuwe inzichten genereren. Het wetenschappelijk programma van EHRI-NL in relatie tot de digitalisering van het Centraal Archief Bijzondere Rechtspleging (CABR).
 date: 2024-10-22
-image: ehri-nl-meeting-03.jpg
+image: national_holocaust_museum.jpg
 ---
 
 {{< intro >}}
