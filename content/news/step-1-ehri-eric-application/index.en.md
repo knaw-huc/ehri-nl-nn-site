@@ -10,7 +10,7 @@ summary: |
   Infrastructure Consortium (ERIC). 
 ---
 
-On 13 July 2023, the Dutch Ministry of Education, Culture and Science submitted a
+On 13 July 2023, the Dutch Ministry of Education, Culture and Science submitted
 to the European Union the step 1 application for EHRI, the European Holocaust 
 Research Infrastructure, to establish itself as an European Research Infrastructure Consortium (ERIC).
 
