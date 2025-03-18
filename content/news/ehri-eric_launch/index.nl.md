@@ -1,7 +1,7 @@
 ---
 title: EHRI Project is nu een ERIC na de Inauguratie Ceremonie in Warschau 
 date: 2025-03-17
-image: ehri-geospatial-repository.png
+image: ehri-launch-warsaw-2025.png
 linkTitle: EHRI Project is nu een ERIC na de Inauguratie Ceremonie in Warschau
 ---
 
@@ -38,6 +38,3 @@ De EHRI-ERIC hoeft niet vanaf de fundamenten te worden opgebouwd, maar kan voort
 
 ---
 
-_Hieronder: screenshot van het archief. Afbeelding omslag: [concentratiekampen dataset](https://geodata.ehri-project.eu/geonetwork/srv/eng/catalog.search#/metadata/52302460-13fd-4914-b496-2f0230e996e1)._
-
-![EHRI Geospatial Repository](./ehri-geospatial-repository-screenshot.png)
