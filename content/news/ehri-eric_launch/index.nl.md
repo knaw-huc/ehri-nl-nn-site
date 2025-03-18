@@ -2,7 +2,6 @@
 title: EHRI Project is nu een ERIC na de Inauguratie Ceremonie in Warschau 
 date: 2025-03-17
 image: ehri-launch-warsaw-2025.png
-linkTitle: EHRI Project is nu een ERIC na de Inauguratie Ceremonie in Warschau
 ---
 
 {{< intro >}}
