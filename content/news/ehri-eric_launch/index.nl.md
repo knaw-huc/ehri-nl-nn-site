@@ -15,6 +15,7 @@ Op 26 januari 2025, aan de vooravond van de herdenking van de 80e verjaardag van
 
 Deze inhuldigingsceremonie volgde op de [beslissing](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-holocaust-research-infrastructure-becomes-30th-eu-recognised-research-consortium-major-2025-01-20_en) van de Europese Commissie (EC) op 20 januari 2025 om van EHRI, voorheen een serie projecten, een ERIC te maken. Zo stelt de Commissie de toekomst van EHRI veilig en ondersteunt zij de visie van EHRI om alle Holocaust-gerelateerde bronnen en expertise in Europa en daarbuiten goed toegankelijk te maken. De EU bevestigt hiermee ook het belang van Holocaustonderzoek voor het heden als een investering in vrije, democratische samenlevingen. 
 
+
 **De openingsceremonie**
 
 **Hanna Wróblewska**, minister van Cultuur en Nationaal Erfgoed van Polen, en **Władysław Teofil Bartoszewski**, staatssecretaris van Buitenlandse Zaken van Polen, openden de ceremonie namens het Poolse voorzitterschap van de Raad van de Europese Unie. **Eppo Bruins**, de Nederlandse minister van Onderwijs, Cultuur en Wetenschap, sprak namens Nederland, het gastland van het hoofdkantoor van de EHRI-ERIC. 
@@ -25,11 +26,13 @@ Hooggeplaatste vertegenwoordigers van de tien landen die bij de oprichting van d
 
 *‘EHRI has been successfully supporting transnational Holocaust research and documentation since 2010. Becoming a permanent ERIC is a significant milestone for us. Thanks to the support of our founding members and the European Commission, we can ensure the long-term sustainability of our work and expand our activities and services. But establishing EHRI as a permanent European organisation is not only important for scientific reason. It also signals that Holocaust archives and research matter and that Europe can only flourish if it understands its history and continues to consider the lessons and legacies of its darkest chapter. For me, that has been one of the key motivations to work towards becoming an ERIC, and I am very pleased to be able to celebrate this achievement today.’* Zo gaf Dr. Reto Speck, Directeur van EHRI aan. 
 
+
 **Een gedistribueerde onderzoeksinfrastructuur: EHRI-NL** 
 
 Het hoofdkantoor van EHRI-ERIC wordt gevestigd in Nederland, een van de tien eerste lidstaten, samen met Oostenrijk, Kroatië, Duitsland, Israël, Polen, Roemenië, Slowakije, Tsjechië en het Verenigd Koninkrijk. België is van plan zich in 2025 bij EHRI-ERIC aan te sluiten en overleg met andere landen is vergevorderd. Deze permanente EHRI en het personeel worden betaald door de staten die lid zijn van de ERIC. Nederland zal het hoofdkantoor van EHRI huisvesten bij het [NIOD](https://niod.nl) Instituut voor Oorlogs-, Holocaust- en Genocidestudies in Amsterdam. In alle leden-staten van deze nieuwe EHRI-organisatie zijn *national nodes* actief of in oprichting. In elke node komen de toonaangevende Holocaust-gerelateerde instellingen in het betreffende land samen in gecoördineerde nationale netwerken. 
 
 In Nederland is EHRI-NL in opbouw, waarbij het NIOD, het Joods Cultureel Kwartier en de UvA, het voortouw nemen. EHRI-NL heeft een eigen financiering, netwerk en doelstellingen, die van belang zijn voor de Nederlandse tak. De nadruk bij de Nederlandse node ligt onder andere op het bevorderen van samenwerking tussen de onderzoeks- en archiefwereld. De band met EHRI-ERIC garandeert een transnationale visie. 
+
 
 **Bouwen op stevige fundamenten** 
 
