@@ -2,11 +2,11 @@
 title: EHRI Project is nu een ERIC na de Inauguratie Ceremonie in Warschau 
 date: 2025-03-17
 image: ehri-geospatial-repository.png
-linkTitle: EHRI Geospatial Repository
+linkTitle: EHRI Project is nu een ERIC na de Inauguratie Ceremonie in Warschau
 ---
 
 {{< intro >}}
-##Internationale steun voor EHRI en Holocaustonderzoek
+Internationale steun voor EHRI en Holocaustonderzoek
 
 Op 26 januari 2025, aan de vooravond van de herdenking van de 80e verjaardag van de bevrijding van Auschwitz-Birkenau, werd de European Holocaust Research Infrastructure (EHRI) ingehuldigd als een permanente European Research Infrastructure Consortium (ERIC) tijdens een ceremonie in het [Polin-museum](https://polin.pl/pl) in Warschau. 
 
