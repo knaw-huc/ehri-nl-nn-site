@@ -1,8 +1,8 @@
 ---
-title: "EHRI Inauguration Ceremony in Warsaw: EHRI Becomes an ERIC to Secure the Future of Holocaust Research"
+title: "EHRI Inauguration Ceremony in Warsaw"
 date: 2025-03-17
 image: ehri-launch-warsaw-2025.png
-linkTitle: EHRI Inauguration Ceremony in Warsaw: EHRI Becomes an ERIC to Secure the Future of Holocaust Research
+linkTitle: EHRI Becomes an ERIC to Secure the Future of Holocaust Research
 ---
 
 {{< intro >}}
