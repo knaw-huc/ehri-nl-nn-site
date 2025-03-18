@@ -1,5 +1,5 @@
 ---
-title: EHRI Inauguration Ceremony in Warsaw: EHRI Becomes an ERIC to Secure the Future of Holocaust Research
+title: "EHRI Inauguration Ceremony in Warsaw: EHRI Becomes an ERIC to Secure the Future of Holocaust Research"
 date: 2025-03-17
 image: ehri-geospatial-repository.png
 linkTitle: EHRI Geospatial Repository
