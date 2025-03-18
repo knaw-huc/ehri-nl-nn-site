@@ -1,8 +1,8 @@
 ---
 title: "EHRI Inauguration Ceremony in Warsaw: EHRI Becomes an ERIC to Secure the Future of Holocaust Research"
 date: 2025-03-17
-image: ehri-geospatial-repository.png
-linkTitle: EHRI Geospatial Repository
+image: ehri-launch-warsaw-2025.png
+linkTitle: EHRI Inauguration Ceremony in Warsaw: EHRI Becomes an ERIC to Secure the Future of Holocaust Research
 ---
 
 {{< intro >}}
@@ -33,8 +33,4 @@ The set-up of this permanent Holocaust research infrastructure and the required 
 After the launch, EHRI doesn’t have to start from scratch but will be able to continue and expand many of its current activities, building on previous European-funded projects that have been running since 2010. Across these projects, the [participating institutions](https://www.ehri-project.eu/consortium/) have already developed a solid foundation for transnational Holocaust research and documentation facilities, creating substantial benefits for its many users. For instance, the [EHRI Portal](https://portal.ehri-project.eu/) and the [Conny Kristel Fellowship Programme](https://www.ehri-project.eu/conny-kristel-fellowships/) offer users online and in-person access to Holocaust-related archival material held in institutions across Europe and beyond. At the same time, EHRI’s wider portfolio of services offers important training and networking opportunities, as well as tools for the digital analysis, interpretation, visualisation and dissemination of Holocaust archives and research. With its long-term future secured, EHRI can continuously enhance and expand these services. Thereby it will maximise its scientific impact and contribute to Holocaust-related public policy areas such as the fight against Holocaust denial and distortion, antisemitism, racism and xenophobia.
 
 ---
-
-_Below: screenshot of the repository. Cover image: [concentration camps dataset](https://geodata.ehri-project.eu/geonetwork/srv/eng/catalog.search#/metadata/52302460-13fd-4914-b496-2f0230e996e1)._
-
-![EHRI Geospatial Repository](./ehri-geospatial-repository-screenshot.png)
 
