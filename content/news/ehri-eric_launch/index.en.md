@@ -1,5 +1,5 @@
 ---
-title: "EHRI Inauguration Ceremony in Warsaw"
+title: "EHRI Project is an ERIC after Inauguration Ceremony in Warsaw"
 date: 2025-03-17
 image: ehri-launch-warsaw-2025.png
 linkTitle: EHRI Becomes an ERIC to Secure the Future of Holocaust Research
@@ -10,7 +10,11 @@ linkTitle: EHRI Becomes an ERIC to Secure the Future of Holocaust Research
 On the eve of the commemoration of the 80th anniversary of the liberation of Auschwitz-Birkenau, the European Holocaust Research Infrastructure (EHRI) was inaugurated as a permanent European Research Infrastructure Consortium (ERIC) during a ceremony at the [Polin Museum](https://polin.pl/pl) in Warsaw.
 {{< /intro >}}
 
+**An ERIC**
+
 This follows the decision of the [European Commission](https://commission.europa.eu/index_en) (EC) on 20 January 2025 ([EC News Alert](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-holocaust-research-infrastructure-becomes-30th-eu-recognised-research-consortium-major-2025-01-20_en)) to establish the European Holocaust Research Infrastructure as a [European Research Infrastructure Consortium](https://www.eric-forum.eu/) (ERIC). In doing so, the EC secures EHRI’s future and supports its vision to provide seamless access to all sources and expertise from across Europe and beyond that are relevant to the study of the Holocaust. The EU hereby clearly confirms the relevance of Holocaust research for free and open societies with shared democratic values.    
+
+**Opening ceremony**
 
 EHRI’s inauguration ceremony was opened by Hanna Wróblewska, Minister of Culture and National Heritage of Poland, and Władysław Teofil Bartoszewski, Secretary of State for Foreign Affairs of Poland, on behalf of the Polish Presidency of the Council of the European Union. Eppo Bruins, Dutch Minister of Education, Culture and Science, spoke on behalf of the hosting country of EHRI-ERIC, the Netherlands.
 
@@ -26,9 +30,15 @@ After a moving musical interlude, Director of the EHRI-ERIC, Reto Speck, held a 
 
 *“EHRI has been successfully supporting transnational Holocaust research and documentation since 2010. Becoming a permanent ERIC is a significant milestone for us. Thanks to the support of our founding members and the European Commission, we can ensure the long-term sustainability of our work and expand our activities and services. But establishing EHRI as a permanent European organisation is not only important for scientific reason. It also signals that Holocaust archives and research matter and that Europe can only flourish if it understands its history and continues to consider the lessons and legacies of its darkest chapter. For me, that has been one of the key motivations to work towards becoming an ERIC, and I am very pleased to be able to celebrate this achievement today.”* Dr Reto Speck, Co-Director of EHRI
 
+**A distributed Research Infrastructure EHRI-NL**
+
 The EHRI-ERIC will be headquartered in the Netherlands, one of [ten founding countries](https://www.ehri-project.eu/wp-content/uploads/2025/01/Leporello-EHRI-online.pdf) that further include Austria, Croatia, Germany, Israel, Poland, Romania, Slovakia, the Czech Republic and the United Kingdom. Belgium intends to join EHRI-ERIC in 2025, and EHRI is already reaching out to other countries to join in the near future.
 
 The set-up of this permanent Holocaust research infrastructure and the required staff are paid for by the member states themselves. The Netherlands is the hosting country and will house the central office of EHRI within the [NIOD](http://www.niod.nl/) Institute for War, Holocaust and Genocide Studies in Amsterdam. In all member countries of this new EHRI organisation, national nodes will be established, bringing together the leading Holocaust related institutions in coordinated national networks.
+
+In the Netherlands, EHRI-NL is under construction, with the NIOD, the Jewish Cultural Quarter and the Amsterdam University taking the lead. EHRI-NL has its own financing, network and objectives that are important for the Dutch branch. The emphasis at the Dutch node is, among other things, on promoting cooperation between the research and archive world. The connection with EHRI-ERIC guarantees a transnational vision.
+
+**Solid foundation**
 
 After the launch, EHRI doesn’t have to start from scratch but will be able to continue and expand many of its current activities, building on previous European-funded projects that have been running since 2010. Across these projects, the [participating institutions](https://www.ehri-project.eu/consortium/) have already developed a solid foundation for transnational Holocaust research and documentation facilities, creating substantial benefits for its many users. For instance, the [EHRI Portal](https://portal.ehri-project.eu/) and the [Conny Kristel Fellowship Programme](https://www.ehri-project.eu/conny-kristel-fellowships/) offer users online and in-person access to Holocaust-related archival material held in institutions across Europe and beyond. At the same time, EHRI’s wider portfolio of services offers important training and networking opportunities, as well as tools for the digital analysis, interpretation, visualisation and dissemination of Holocaust archives and research. With its long-term future secured, EHRI can continuously enhance and expand these services. Thereby it will maximise its scientific impact and contribute to Holocaust-related public policy areas such as the fight against Holocaust denial and distortion, antisemitism, racism and xenophobia.
 
