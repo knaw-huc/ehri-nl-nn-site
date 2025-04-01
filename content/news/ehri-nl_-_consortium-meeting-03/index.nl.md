@@ -5,7 +5,7 @@ image: national_holocaust_museum.jpg
 ---
 
 {{< intro >}}
-De derde consortiumbijeenkomst van EHRI-NL, het Nederlandse knooppunt van de European Holocaust Research Infrastructure (EHRI) vond plaats op 11 september 2024 in het auditorium van het Nationaal Holocaust Museum in Amsterdam. We denken met plezier terug aan een informatieve middag, waarin zowel de digitalisering van CABR als de context waarin het archief tot stand is gekomen uitgebreid werden toegelicht.{{< /intro >}}
+De derde consortiumbijeenkomst van EHRI-NL, het Nederlandse knooppunt van de European Holocaust Research Infrastructure (EHRI) vond plaats op 11 september 2024 in het auditorium van het [Nationaal Holocaustmuseum](https://jck.nl/locatie/nationaal-holocaustmuseum) in Amsterdam. We denken met plezier terug aan een informatieve middag, waarin zowel de digitalisering van CABR als de context waarin het archief tot stand is gekomen uitgebreid werden toegelicht.{{< /intro >}}
 
 Zo'n veertig deelnemers verzamelden zich om 13.00 uur in het auditorium voor een vol programma. Bijna alle aanwezigen waren onderzoekers, historici, wetenschappers, collectiespecialisten, schrijvers of archivarissen met een relatie tot de Holocaust of de Tweede Wereldoorlog. Verschillende Nederlandse instellingen, van de VU tot het Joods Cultureel Kwartier, van het Nationaal tot het Gelders Archief, van het NIOD tot Kamp Westenbork waren vertegenwoordigd.
 
