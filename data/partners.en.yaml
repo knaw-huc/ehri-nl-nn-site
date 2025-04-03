@@ -24,7 +24,7 @@
 
 - id: uva
   title: University of Amsterdam
-  url: https://www.uva.nl/en
+  url: https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH
   image: uva.png
   content: |
     The [University of Amsterdam](https://www.uva.nl/en) belongs to Europe’s top universities. With over 
@@ -44,12 +44,12 @@
 - id: hckw
   title: Westerbork Memorial
   url: https://kampwesterbork.nl/en/
-  image: jckhckwesterbork.png
+  image: hckwesterbork.png
   content: |
     At Westerbork Memorial we share the stories of the more than one hundred thousand Jews, Sinti and Roma that were deported from Westerbork to concentration- and extermination camps in the east.
 
 - id: wotweenet
-  title: WW Two Net
+  title: WW2Net Foundation
   url: https://www.wo2net.nl/
   image: wotweenet.png
   content: |
