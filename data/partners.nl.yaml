@@ -40,14 +40,14 @@
   content: |
     De De Anne Frank Stichting is een onafhankelijke organisatie die de plek beheert waar Anne Frank tijdens de Tweede Wereldoorlog was ondergedoken en waar zij haar dagboek schreef. De stichting brengt haar levensverhaal en haar werk wereldwijd onder de aandacht, mede ter bezinning op de gevaren van antisemitisme, racisme en discriminatie en het belang van vrijheid, gelijke rechten en democratie.
 
-  - id: hckw
+- id: hckw
   title: Herinerringscentrum Kamp Westerbork
   url: https://kampwesterbork.nl/
   image: hckwesterbork.png
   content: |
     Kamp Westerbork is een plek van herinnering, educatie en reflectie. Hier worden de geschiedenis en de persoonlijke verhalen van kamp Westerbork gedeeld met een zo breed mogelijk publiek. Dat doen we door in gesprek te gaan met belanghebbenden wiens persoonlijke geschiedenis met Westerbork verbonden is. Al onze initiatieven en activiteiten komen voort uit verbinding met de historische plek. Vanuit deze plek vertellen wij de gelaagde geschiedenis van kamp Westerbork in relatie tot de tijd waarin wij nu leven, met nadruk op het verhaal van de Holocaust.
 
-    - id: wotweenet
+- id: wotweenet
   title: Stichting WO2Net
   url: https://www.wo2net.nl/
   image: wotweenet.png
