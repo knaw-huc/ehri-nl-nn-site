@@ -26,6 +26,7 @@
 
 - id: geodata
   title: Geospatial Repository
+  url: https://geodata.ehri-project.eu/geonetwork/srv/eng/catalog.search#/home
   icon: article
   image: geodata.png
   content: |
