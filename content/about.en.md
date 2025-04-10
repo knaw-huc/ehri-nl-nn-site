@@ -4,10 +4,15 @@ type: about
 ---
 
 {{< intro >}}
-The mission of the [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) is to 
-to ensure that the study, commemoration and education are encouraged at the international level. The biggest challenge 
-is the fact that sources and expertise are fragmented across numerous institutions. EHRI is 
-currently supported by two project consortia of 25 partners from Europe, Israel and the United States.
+Trans-national Holocaust research, commemoration and education is the mission of the [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu), and its main challenge is the wide dispersal of sources and expertise across many institutions. EHRI overcomes such fragmentation by connecting sources, institutions and people.   
+
+In 2025, EHRI has made the transformation from a series of projects (that started in 2010) to a European Research Infrastructure Consortium (ERIC), an international permanent organisation for Holocaust research.
+
+Currently, EHRI-ERIC has 10 Founding Member Countries: Austria, Croatia, Germany, Israel, the Netherlands, Poland, Romania, Slovakia, the Czech Republic and the United Kingdom. Belgium intends to join EHRI-ERIC in 2025, and EHRI is already reaching out to other countries to join in the near future.
+
+The Netherlands is the hosting country and will house the Central Office of EHRI within the NIOD Institute for War, Holocaust and Genocide Studies in Amsterdam. In all member countries National Nodes are established, bringing together the leading Holocaust related institutions in coordinated national networks.
+
+Each node will send a representative to the General Assembly and the National Coordinators Committee, the most important bodies which govern EHRI-ERIC.
 {{< /intro >}}
 
 ### EHRI-NL tries to perpetuate Holocaust research in the long term, both within the Netherlands and abroad, by:
