@@ -32,7 +32,7 @@
   content: |
     De EHRI Geospatial Repository biedt toegang tot datasets die het mogelijk maken om kaarten te maken en te analyseren, gerelateerd aan de Holocaust.
   links:
-    - title: Documentation
+    - title: Documentatie
       url: https://documentation.ehri-project.eu/en/latest/geospatial/index.html
 
 - id: podcast
