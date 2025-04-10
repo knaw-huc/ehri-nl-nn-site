@@ -7,7 +7,13 @@ type: about
 {{< intro >}}
 De missie van de [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) is ervoor 
 te zorgen dat de Holocaust internationaal onderzocht, herdacht en onderwezen wordt. De grootste uitdaging 
-daarbij is het feit dat de bronnen en expertise versnipperd zijn over talrijke instellingen in de hele wereld. EHRI is vanaf 2010 begonnen als een serie projecten, maar is in 2025 getransformeerd tot een European Research Infrastructure Consortium (ERIC), een blijvende internationale organisatie voor Holocaust onderzoek. Momenteel wordt de EHRI-ERIC gedragen door 10 lidstaten (Nederland, Duitsland, Polen, Oostenrijk, Slowakije, Tsjechië, Kroatië, Israël, Roemenië en het Verenigd Koninkrijk. België staat op het punt om lid te worden en aan verdere uitbreiding wordt gewerkt. Elk land heeft een eigen nationale node (in Nederland EHRI-NL). Deze node heeft een coördinator (in Nederland het NIOD). De transnationale EHRI-ERIC wordt bestuurd door een General Assembly (waarin afgevaardigden van elk land) en een National Coordinators Committee (waarin een afgevaardigde van elke nationale coördinator).
+daarbij is het feit dat de bronnen en expertise versnipperd zijn over talrijke instellingen in de hele wereld. 
+
+EHRI is vanaf 2010 begonnen als een serie projecten, maar is in 2025 getransformeerd tot een European Research Infrastructure Consortium (ERIC), een blijvende internationale organisatie voor Holocaust onderzoek. 
+
+Momenteel wordt de EHRI-ERIC gedragen door 10 lidstaten (Nederland, Duitsland, Polen, Oostenrijk, Slowakije, Tsjechië, Kroatië, Israël, Roemenië en het Verenigd Koninkrijk. België staat op het punt om lid te worden en aan verdere uitbreiding wordt gewerkt. 
+
+Elk land heeft een eigen nationale node (in Nederland EHRI-NL). Deze node heeft een coördinator (in Nederland het NIOD). De transnationale EHRI-ERIC wordt bestuurd door een General Assembly (waarin afgevaardigden van elk land) en een National Coordinators Committee (waarin een afgevaardigde van elke nationale coördinator).
 
 {{< /intro >}}
 
