@@ -32,8 +32,6 @@
   content: |
     EHRI Geospatial Repository provides access to datasets that make it possible to create maps on the subject of the Holocaust and analyse it through spatial approaches.
   links:
-    - title: Go to the Geospatial Repository
-      url: https://geodata.ehri-project.eu/
     - title: Documentation
       url: https://documentation.ehri-project.eu/en/latest/geospatial/index.html
 
