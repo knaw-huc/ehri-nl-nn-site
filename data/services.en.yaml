@@ -42,3 +42,11 @@
   image: doklady-1.png
   content: |
     In each episode of For the Living and the Dead, a Holocaust researcher talks about an object that tells a very personal story about the Holocaust.
+
+ - id: MOOC
+  title: EHRI MOOC
+  url: https://www.coursera.org/learn/holocaust-primary-sources
+  icon: lab_profile
+  image: MOOC_image.png
+  content: |
+    In this online video course *The Holocaust through the Perspective of Primary Sources*, produced by EHRI, you will explore diaries, photographs, official Nazi documents, postwar survivor testimonies and much more; all together with leading scholars. You will become acquainted with original documents and gain hands-on experience in using them while learning about their importance, and the unique perspectives they provide us into this cataclysmic event. 
