@@ -5,7 +5,7 @@ image: ehri-launch-warsaw-2025.png
 ---
 
 {{< intro >}}
-Internationale steun voor EHRI en Holocaustonderzoek
+**Internationale steun voor EHRI en Holocaustonderzoek**
 
 Op 26 januari 2025, aan de vooravond van de herdenking van de 80e verjaardag van de bevrijding van Auschwitz-Birkenau, werd de European Holocaust Research Infrastructure (EHRI) ingehuldigd als een permanente European Research Infrastructure Consortium (ERIC) tijdens een ceremonie in het [Polin-museum](https://polin.pl/pl) in Warschau. 
 
