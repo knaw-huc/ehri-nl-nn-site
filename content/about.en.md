@@ -10,7 +10,7 @@ In 2025, EHRI has made the transformation from a series of projects (that starte
 
 Currently, EHRI-ERIC has 10 Founding Member Countries: Austria, Croatia, Germany, Israel, the Netherlands, Poland, Romania, Slovakia, the Czech Republic and the United Kingdom. Belgium intends to join EHRI-ERIC in 2025, and EHRI is already reaching out to other countries to join in the near future.
 
-The Netherlands is the hosting country and will house the Central Office of EHRI within the [NIOD](www.niod.nl) Institute for War, Holocaust and Genocide Studies in Amsterdam. In all member countries National Nodes are established, bringing together the leading Holocaust related institutions in coordinated national networks. Read more about the national nodes in this [flyer](https://www.ehri-project.eu/wp-content/uploads/2025/02/Leporello-DEF-DEF.pdf).
+The Netherlands is the hosting country and will house the Central Office of EHRI within the [NIOD](https://www.niod.nl/) Institute for War, Holocaust and Genocide Studies in Amsterdam. In all member countries National Nodes are established, bringing together the leading Holocaust related institutions in coordinated national networks. Read more about the national nodes in this [flyer](https://www.ehri-project.eu/wp-content/uploads/2025/02/Leporello-DEF-DEF.pdf).
 
 Each node will send a representative to the General Assembly and the National Coordinators Committee, the most important bodies which govern EHRI-ERIC.
 {{< /intro >}}
